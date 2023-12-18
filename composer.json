@@ -1,0 +1,16 @@
+{
+    "require": {
+        "scikit-learn/php-ml": "dev-master",
+        "scikit-learn/joblib": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/scikit-learn/php-ml"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/scikit-learn/joblib"
+        }
+    ]
+}
