@@ -4,7 +4,7 @@ Welcome to the Loan SME Website, a powerful and efficient platform built to stre
 
 ## Key Features:
 
-- **Automated Loan Approval:** Our website employs an advanced EMI formula to automatically calculate loan eligibility and facilitate quick approval based on applicant details.
+- **Automated Loan Approval:** The application employs an advanced EMI formula to automatically calculate loan eligibility and facilitate quick approval based on applicant details.
 
 - **Smart Applicant Assessment:** The system intelligently evaluates crucial applicant information, such as job status, financial history, and other relevant factors, ensuring a comprehensive analysis for accurate decision-making.
 
